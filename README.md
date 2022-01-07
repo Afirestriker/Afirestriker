@@ -12,11 +12,11 @@
 -->
 
 ## 🛠 Top-Skills
-<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> Java
-<img src="https://img.icons8.com/officel/50/000000/c-plus-plus.png"/> C++
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/> HTML
-<img src="https://img.icons8.com/color/50/000000/css3.png"/> CSS
-<img src="https://img.icons8.com/officel/50/000000/php-logo.png"/> PHP
+<img src="./Icons/Java-icon.png"/> Java
+<img src="./Icons/cpp-icon.png"/> C++
+<img src="./Icons/HTML-icon.png"/> HTML
+<img src="./Icons/CSS-icon.png"/> CSS
+<img src="./Icons/PHP-icon.png"/> PHP
 
 ## ⚡️ Fun fact:
 I like playing soccer, My winning ratio is 70%+ in Fifa Online

@@ -14,7 +14,8 @@
 ## 🛠 Top-Skills
 <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/officel/50/000000/c-plus-plus.png"/>
-<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/50/000000/external-html-programming-and-coding-flatart-icons-outline-flatarticons.png"/>
+<img src="https://img.icons8.com/external-justicon-lineal-justicon/50/000000/external-html-file-file-type-justicon-lineal-justicon.png"/>
+<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/50/000000/external-css-programming-and-coding-flatart-icons-outline-flatarticons-1.png"/>
 <img src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
 
 ## ⚡️ Fun fact:

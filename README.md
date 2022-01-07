@@ -12,6 +12,8 @@
 -->
 
 ## 🛠 Top-Skills
+<img src="https://img.icons8.com/officel/16/000000/c-plus-plus.png"/>
+
 Java, C++, HTML, CSS, PHP...
 
 

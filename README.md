@@ -12,11 +12,11 @@
 -->
 
 ## 🛠 Top-Skills
-<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/officel/50/000000/c-plus-plus.png"/>
-<img src="https://img.icons8.com/external-justicon-lineal-justicon/50/000000/external-html-file-file-type-justicon-lineal-justicon.png"/>
-<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/50/000000/external-css-programming-and-coding-flatart-icons-outline-flatarticons-1.png"/>
-<img src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
+<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> Java
+<img src="https://img.icons8.com/officel/50/000000/c-plus-plus.png"/> C++
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/> HTML
+<img src="https://img.icons8.com/color/50/000000/css3.png"/> CSS
+<img src="https://img.icons8.com/officel/50/000000/php-logo.png"/> PHP
 
 ## ⚡️ Fun fact:
 I like playing soccer, My winning ratio is 70%+ in Fifa Online

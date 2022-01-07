@@ -33,6 +33,8 @@ I like playing soccer, My winning ratio is 70%⬆️ in Fifa Online.
 <!-- COMMENTED -->
 
 ## GitHub Stats
+<!--  https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md   -->
 ![Afirestriker GitHub stats](https://github-readme-stats.vercel.app/api?username=Afirestriker&show_icons=true&theme=dark)
 
+<!--  https://github-readme-streak-stats.herokuapp.com/demo/  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Afirestriker&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

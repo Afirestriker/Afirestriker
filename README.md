@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm Ashish 👋
 
+<img alt="Ash-Coding-Coordination" src="./Gifs/coder.gif?raw=true" />
+
 <!-- COMMENTED
 **Afirestriker/Afirestriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,9 +22,6 @@
 
 ## ⚡️ Fun fact:
 I like playing soccer, My winning ratio is 70%+ in Fifa Online
-
-<img alt="Ash-Coding-Coordination" src="./Gifs/coder.gif?raw=true" />
-
 
 ## 🔗 Find me around the web...
 - Sharing post and updates on <a href="https://linkedin.com/in/ashish-agrawal-india">linkedin</a>

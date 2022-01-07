@@ -12,10 +12,10 @@
 -->
 
 ## 🛠 Top-Skills
-<img src="https://img.icons8.com/external-outline-juicy-fish/50/000000/external-java-web-developer-outline-outline-juicy-fish.png"/> <img src="https://img.icons8.com/officel/50/000000/c-plus-plus.png"/>
-
-Java, C++, HTML, CSS, PHP...
-
+<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/officel/50/000000/c-plus-plus.png"/>
+<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/50/000000/external-html-programming-and-coding-flatart-icons-outline-flatarticons.png"/>
+<img src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
 
 ## ⚡️ Fun fact:
 I like playing soccer, My winning ratio is 70%+ in Fifa Online

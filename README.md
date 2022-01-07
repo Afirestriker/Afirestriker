@@ -12,7 +12,7 @@
 -->
 
 ## 🛠 Top-Skills
-<img src="https://img.icons8.com/officel/80/000000/c-plus-plus.png"/>
+<img src="https://img.icons8.com/officel/40/000000/c-plus-plus.png"/>
 
 Java, C++, HTML, CSS, PHP...
 

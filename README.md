@@ -33,8 +33,7 @@ I like playing soccer, My winning ratio is 70%  in Fifa Online
 <!-- COMMENTED -->
 
 ## Most Used Language
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRezaur&theme=radical" />
-
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afirestriker&theme=black" />
 
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Afirestriker&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">

@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Ashish 👋
+## 👋 Hi there, I'm Ashish 👋
 
 <!--
 **Afirestriker/Afirestriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->

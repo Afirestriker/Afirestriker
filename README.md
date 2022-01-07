@@ -21,7 +21,7 @@
 ## ⚡️ Fun fact:
 I like playing soccer, My winning ratio is 70%+ in Fifa Online
 
-<img align="right" alt="Ash-Coding-Coordination" src="./Gifs/coder.gif?raw=true" />
+<img alt="Ash-Coding-Coordination" src="./Gifs/coder.gif?raw=true" />
 
 
 ## 🔗 Find me around the web...

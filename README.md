@@ -18,7 +18,7 @@ I like playing soccer, My winning ratio is 70%+ in Fifa Online
 
 ## 🔗 Find me around the web...
 - Sharing post and updates on <a href="https://linkedin.com/in/ashish-agrawal-india">linkedin</a>
-- Engagement on <a href="https://twitter.com/_afirestriker">Twitter</a>=
+- Engagement on <a href="https://twitter.com/_afirestriker">Twitter</a>
 - Watch my videos now on <a href="https://www.youtube.com/c/SpecialDays">YouTube</a>
 
 ## GitHub Stats

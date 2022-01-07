@@ -1,6 +1,6 @@
 ## 👋 Hey Hi Everyone, I'm Ashish 👋
 ### Computer Applications | Front-end Developer | YouTuber
-</br>
+
 <img alt="Ash-Coding-Coordination" src="./Gifs/coder.gif?raw=true" />
 
 I'm a software Developer and YouTuber. I am passionate about learning new computer skills, 

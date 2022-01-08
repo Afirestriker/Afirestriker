@@ -3,7 +3,7 @@
 -->
 
 ## 👋 Hey Hi Everyone, I'm Ashish 👋
-### Computer Applications | Front-end Developer | <img src="https://img.icons8.com/color/20/000000/youtube-play.png"/>YouTuber
+### Computer Applications | Front-end Developer | <img src="https://img.icons8.com/color/30/000000/youtube-play.png"/>YouTuber
 
 - 🔭 I’m currently working on upgrading my skills...
 - 🌱 I’m currently learning Python and Android Programming...

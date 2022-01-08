@@ -3,7 +3,7 @@
 -->
 
 ## 👋 Hey Hi Everyone, I'm Ashish 👋
-### Computer Applications | Front-end Developer | <a hrefhttps://www.youtube.com/specialdays="">YouTuber</a>
+### Computer Applications | Front-end Developer | <a href="https://www.youtube.com/specialdays">YouTuber</a>
 
 - 🔭 I’m currently working on upgrading my skills...
 - 🌱 I’m currently learning Python and Android Programming...

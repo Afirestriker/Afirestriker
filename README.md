@@ -14,12 +14,14 @@
 -->
 
 ## 🛠 Top-Skills
-<img src="./Icons/Java-icon.png"/> Java
-<img src="./Icons/cpp-icon.png"/> C++
-<img src="./Icons/HTML-icon.png"/> HTML
-<img src="./Icons/CSS-icon.png"/> CSS
-<img src="./Icons/PHP-icon.png"/> PHP
-
+<div style="float:left;"> 
+  <img src="./Icons/Java-icon.png"/> Java
+  <img src="./Icons/cpp-icon.png"/> C++
+  <img src="./Icons/HTML-icon.png"/> HTML
+  <img src="./Icons/CSS-icon.png"/> CSS
+  <img src="./Icons/PHP-icon.png"/> PHP
+</div>
+  
 ## ⚡️ Fun fact:
 I like playing soccer, My winning ratio is 70%⬆️ in Fifa Online.
 

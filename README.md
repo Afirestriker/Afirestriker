@@ -4,7 +4,7 @@
 
 ## 👋 Hey Hi Everyone, I'm Ashish 👋
 
-<img align="right" width="150" height="150" src="./Images/Octacat-img1.png?raw=true"></a>
+<img align="right" width="auto" height="auto" src="./Images/Octacat-img1.png?raw=true"></a>
 
 ### Specialize in Computer Applications | Front-end Developer | <a href="https://www.youtube.com/specialdays">YouTuber</a>
 

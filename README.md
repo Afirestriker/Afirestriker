@@ -5,8 +5,11 @@
 ## 👋 Hey Hi Everyone, I'm Ashish 👋
 ### Specialize in Computer Applications | Front-end Developer | <a href="https://www.youtube.com/specialdays">YouTuber</a>
 
+<img align="right" width="150" height="150" src="./Images/Octacat-img1.png?raw=true"></a>
+
 - 🔭 I’m currently working on upgrading my skills...
 - 🌱 I’m currently learning Python and Android Programming...
+
 
 <!--
 - 📫 How to reach me: ...

@@ -23,7 +23,7 @@
 </div>
   
 ## ⚡️ Fun fact:
-I like playing soccer, My winning ratio is 70%⬆️ in Fifa Online.
+I like playing soccer, My winning :trophy: ratio is 70%⬆️ in Fifa Online.
 
 ## 🔗 Find me around the web...
 - Sharing post and updates on <a href="https://linkedin.com/in/ashish-agrawal-india">linkedin/in/ashish-agrawal-india</a>

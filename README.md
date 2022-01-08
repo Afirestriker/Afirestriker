@@ -5,8 +5,6 @@
 ## 👋 Hey Hi Everyone, I'm Ashish 👋
 ### Computer Applications | Front-end Developer | YouTuber
 
-<img alt="Ash-Coding-Coordination" src="./Gifs/coder.gif?raw=true" />
-
 - 🔭 I’m currently working on upgrading my skills...
 - 🌱 I’m currently learning Python and Android Programming...
 

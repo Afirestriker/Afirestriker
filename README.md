@@ -24,7 +24,9 @@
   <img src="./Icons/CSS-icon.png"/> CSS
   <img src="./Icons/PHP-icon.png"/> PHP
 </div>
-  
+
+## ✍️ Blog
+
 ## ⚡️ Fun fact:
 I'm also passionate about sports and I like playing soccer, my winning ratio is 70%⬆️ in Fifa Online.
 

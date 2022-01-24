@@ -9,7 +9,7 @@
 ### Specialize in Computer Applications | Front-end Developer | <a href="https://www.youtube.com/specialdays">YouTuber</a>
 
 - 🔭 Hobbies: Playing Soccer, Solving Puzzles, Reading and Content Creation.
-- 🌱 Learning Python and Android Programming...
+<!-- - 🌱 Learning AI and Android Programming... -->
 
 <!--
 - 📫 How to reach me: ...

@@ -28,7 +28,7 @@
 <!-- ## ✍️ Blog -->
 
 ## ⚡️ Fun fact:
-I'm was awarded with best sport player, I like playing soccer and my winning ratio is 70%⬆️ in Fifa Online.
+Awarded as Best Sport Player of the year, I like playing soccer, caption my school soccer team to first trophy in soccer tournament and my winning ratio is 70%⬆️ in Fifa Online.
 
 ## 🔗 Find me around the web...
 - You can connect and follow me on <a href="https://linkedin.com/in/ashish-agrawal-india">linkedin/in/ashish-agrawal-india</a>

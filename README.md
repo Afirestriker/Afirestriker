@@ -20,8 +20,8 @@
 <div style="float:left;"> 
   <img src="./Icons/cpp-icon.png"/> C++
   <img src="./Icons/Java-icon.png"/> Java
-  <img src="./Icons/HTML-icon.png"/> HTML
-  <img src="./Icons/CSS-icon.png"/> CSS
+  <img src="./Icons/HTML-icon.png"/> HTML5
+  <img src="./Icons/CSS-icon.png"/> CSS3
   <img src="./Icons/PHP-icon.png"/> PHP
 </div>
 

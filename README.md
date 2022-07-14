@@ -9,7 +9,7 @@
 ### Specialize in Computer Applications | Front-end Developer | <a href="https://www.youtube.com/specialdays">YouTuber</a>
 
 - 🔭 Hobbies: Playing strategic games, Reading, Content Creation, and Spending time with nature.
-<!-- - 🌱 Learning AI and Android Programming... -->
+<!-- - 🌱 Learning MERN Stack... -->
 
 <!--
 - 📫 How to reach me: ...
@@ -30,7 +30,9 @@
 <!-- ## ✍️ Blog -->
 
 ## ⚡️ Fun fact:
-Awarded as Best Sport Player of the year during my 10th grade, I like playing soccer, caption my school soccer team to first trophy in soccer tournament and having an 70%⬆️ winning ratio in Fifa Online.
+- Awarded as Best Sport Player of the year during my 10th grade. 
+- I like playing soccer, caption my school soccer team to first trophy in competitive tournament.
+- 70%⬆️ winning ratio in online FiFa with over 1500 matched played.
 
 ## 🔗 Find me around the web...
 - You can connect and follow me on <a href="https://linkedin.com/in/ashish-agrawal-india">linkedin/in/ashish-agrawal-india</a>

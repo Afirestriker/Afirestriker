@@ -22,6 +22,7 @@
   <img src="./Icons/Java-icon.png"/> Java
   <img src="./Icons/HTML-icon.png"/> HTML5
   <img src="./Icons/CSS-icon.png"/> CSS3
+  <img src="./Icons/JavaScript-48x48.png"/> JS
   <img src="./Icons/PHP-icon.png"/> PHP
   <img src="./Icons/Bootstrap-48x48.png"/> Bootstrap
 </div>

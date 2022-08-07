@@ -30,8 +30,8 @@
 <!-- ## ✍️ Blog -->
 
 ## ⚡️ Fun fact:
-- Awarded as Best Sport Player of the year.
-- Caption my school soccer team to first trophy in competitive tournament.
+- Awarded 🥇 as Best Sport Player of the year in 2014.
+- Lead my school soccer team to our first 🏆 in competitive tournament.
 - +70% 🏆 winning ratio in online FiFa with over 1500+ matched played.
 
 ## 🔗 Find me around the web...

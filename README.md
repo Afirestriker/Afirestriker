@@ -32,7 +32,7 @@
 ## ⚡️ Fun fact:
 - Awarded as Best Sport Player of the year.
 - Caption my school soccer team to first trophy in competitive tournament.
-- 70%⬆️ winning ratio in online FiFa with over 1500+ matched played.
+- +70% 🏆 winning ratio in online FiFa with over 1500+ matched played.
 
 ## 🔗 Find me around the web...
 - You can connect and follow me on <a href="https://linkedin.com/in/ashish-agrawal-india">linkedin/in/ashish-agrawal-india</a>

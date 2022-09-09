@@ -18,7 +18,7 @@
 
 ## 🛠 Top-Skills
 <div style="float:left;"> 
-  <img src="./Icons/cpp-icon.png" title="C++">
+  <img src="./Icons/cpp_48x48.png" title="C++">
   <img src="./Icons/Java-icon.png" title="Java">
   <img src="./Icons/HTML-icon.png" title="HTML5">
   <img src="./Icons/CSS-icon.png" title="CSS3">

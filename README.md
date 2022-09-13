@@ -18,6 +18,7 @@
 
 ## 🛠 Top-Skills
 <div style="float:left;"> 
+  <img src="./Icons/google_cloud_48x48.png" title="Google Cloud">
   <img src="./Icons/cpp_48x48.png" title="C++">
   <img src="./Icons/Java-icon.png" title="Java">
   <img src="./Icons/HTML_48x48.png" title="HTML5">

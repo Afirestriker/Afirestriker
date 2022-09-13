@@ -22,7 +22,7 @@
   <img src="./Icons/Java-icon.png" title="Java">
   <img src="./Icons/HTML_48x48.png" title="HTML5">
   <img src="./Icons/CSS-icon.png" title="CSS3">
-  <img src="./Icons/SCSS_48x48" title="SASS">
+  <img src="./Icons/SASS_48x48.png" title="SASS">
   <img src="./Icons/JavaScript-48x48.png" title="JavaScript">
   <img src="./Icons/PHP-icon.png" title="PHP">
   <img src="./Icons/Bootstrap-48x48.png" title="Bootstrap">

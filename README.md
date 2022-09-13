@@ -24,7 +24,7 @@
   <img src="./Icons/CSS-icon.png" title="CSS3">
   <img src="./Icons/SASS_48x48.png" title="SASS">
   <img src="./Icons/JavaScript-48x48.png" title="JavaScript">
-  <img src="./Icons/PHP-icon.png" title="PHP">
+  <img src="./Icons/PHP_48x48.png" title="PHP">
   <img src="./Icons/Bootstrap-48x48.png" title="Bootstrap">
 </div>
 

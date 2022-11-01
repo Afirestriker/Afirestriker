@@ -2,7 +2,7 @@
 **Afirestriker/Afirestriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 👋 Hey Hi Everyone, I'm Ashish 😊
+## 👋 Hey Hi Everyone, I'm Ashish 😊 ✨
 
 <img align="right" width="200" height="200" src="./Images/Octacat-img1.png?raw=true"></a>
 

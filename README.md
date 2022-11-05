@@ -19,7 +19,7 @@
 ## 🛠 Top-Skills
 <div style="float:left;"> 
   <img src="./Icons/google_cloud_48x48.png" title="Google Cloud">
-  <a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ"><img src="./Icons/postman_student_expert_badge_48x48.png" title="Postman Student Expert"></a>
+  <a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ" target="_blank"><img src="./Icons/postman_student_expert_badge_48x48.png" title="Postman Student Expert"></a>
   <img src="./Icons/cpp_48x48.png" title="C++">
   <img src="./Icons/Java-icon.png" title="Java">
   <img src="./Icons/HTML_48x48.png" title="HTML5">

@@ -18,16 +18,16 @@
 
 ## 🛠 Top-Skills
 <div style="float:left;"> 
-  <img src="./Icons/google_cloud_48x48.png" title="Google Cloud">
-  <a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ" target=_blank><img src="./Icons/postman_student_expert_badge_48x48.png" title="Postman Student Expert"></a>
-  <img src="./Icons/cpp_48x48.png" title="C++">
-  <img src="./Icons/Java-icon.png" title="Java">
-  <img src="./Icons/HTML_48x48.png" title="HTML5">
-  <img src="./Icons/CSS-icon.png" title="CSS3">
-  <img src="./Icons/SASS_48x48.png" title="SASS">
-  <img src="./Icons/JavaScript-48x48.png" title="JavaScript">
-  <img src="./Icons/PHP_48x48.png" title="PHP">
-  <img src="./Icons/Bootstrap-48x48.png" title="Bootstrap">
+  <img src="./Icons/google_cloud_48x48.png" alt="Google_Cloud" title="Google Cloud">
+  <a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ" target="_blank"><img src="./Icons/postman_student_expert_badge_48x48.png" alt="Postman Student Expert" title="Postman Student Expert"></a>
+  <img src="./Icons/cpp_48x48.png" alt="CPP" title="C++">
+  <img src="./Icons/Java-icon.png" alt="Java" title="Java">
+  <img src="./Icons/HTML_48x48.png" alt="HTML5" title="HTML5">
+  <img src="./Icons/CSS-icon.png" alt="CSS3" title="CSS3">
+  <img src="./Icons/SASS_48x48.png" alt="SASS" title="SASS">
+  <img src="./Icons/JavaScript-48x48.png" alt="JavaScript" title="JavaScript">
+  <img src="./Icons/PHP_48x48.png" alt="PHP" title="PHP">
+  <img src="./Icons/Bootstrap-48x48.png" alt="BootStrap" title="Bootstrap">
 </div>
 
 <!-- ## ✍️ Blog -->

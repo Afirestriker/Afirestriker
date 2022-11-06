@@ -18,7 +18,7 @@
 
 ## 🛠 Top-Skills
 <div style="float:left;"> 
-  <img src="./Icons/google_cloud_48x48.png" alt="Google Cloud" title="Google Cloud">
+  <img src="./Icons/google_cloud_48x48.png" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform">
   <a href="https://www.credly.com/go/Lsvab3Ph" target="_blank"><img src="./Icons/google-ux-design_badge_48x48.png" alt="Google UX Design Certified Badge" title="Google UX Certified"></a>
   <a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ" target="_blank"><img src="./Icons/postman_student_expert_badge_48x48.png" alt="Postman Student Expert Badge" title="Postman Student Expert"></a>
   <img src="./Icons/cpp_48x48.png" alt="CPP" title="C++">

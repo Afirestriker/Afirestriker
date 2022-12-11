@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="./Images/Octocat-v2.png"></a>
+<img  src="./Images/Octocat-v2.png" alt="Octacat-v2" align="right" width="200" height="200"></a>
 <h1> 👋 Hey Hi, I'm Ashish Agrawal ✨ </h1>
 <h3> 🚀 Specialize in Computer Applications | Front-End Developer 🚀 </h3>
 

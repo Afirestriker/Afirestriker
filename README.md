@@ -43,7 +43,7 @@
 
 <div>
 
-### ⚡️ Fun fact:
+### ⚡️ Fun Fact:
 - 🕹️ &nbsp; Online Fifa competitor over ⬆️70% winning ratio with 🔥1500+ matches played.
 - 🏆 &nbsp; Won best sport player of the year award in interschool competition held in Jan-Feb 2014.
 - 🏃 &nbsp; Acknowledge as the best 100m runner at a hereditary estate level in 2014.

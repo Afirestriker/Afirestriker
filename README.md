@@ -1,12 +1,13 @@
-# 👋 Hey Hi, I'm Ashish Agrawal ✨
+<h1> 👋 Hey Hi, I'm Ashish Agrawal ✨ </h1>
 <img align="right" width="200" height="200" src="./Images/Octacat-img1.png?raw=true"></a>
-### 🚀 Specialize in Computer Applications | Front-End Developer 🚀
+<h3> 🚀 Specialize in Computer Applications | Front-End Developer 🚀 </h3>
 
 ### About Me:
-- 🔭 Hobbies: Playing strategic games, Reading, Content Creation, and Spending time with nature.
+- 🔭 Playing strategic games, Reading, Content Creation, and Spending time with nature.
 
-### 🛠 Top-Skills
-<div style="float:left;"> 
+### 🛠 Tech Stack
+
+<div> 
   <img src="./Icons/google_cloud_48x48.png" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform">
   <a href="https://www.credly.com/go/Lsvab3Ph" target="_blank"><img src="./Icons/google-ux-design_badge_48x48.png" alt="Google UX Design Certified Badge" title="Google UX Certified"></a>
   <a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ" target="_blank"><img src="./Icons/postman_student_expert_badge_48x48.png" alt="Postman Student Expert Badge" title="Postman Student Expert"></a>
@@ -20,26 +21,33 @@
   <img src="./Icons/Bootstrap-48x48.png" alt="BootStrap" title="Bootstrap">
 </div>
 
-<!-- ## ✍️ Blog -->
-
 ### ⚡️ Fun fact:
 - Awarded 🥇 as Best Sport Player of the year in 2014.
 - Lead my school ⚽ team to our first 🏆 in competitive tournament.
 - ➕70% winning ratio in online FiFa with over 🔥1500+ matched played.
 
-<!-- COMMENTED -->
-
 ### GitHub Stats
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-[![Afirestriker GitHub stats](https://github-readme-stats.vercel.app/api?username=Afirestriker&show_icons=true&theme=dark)]
-https://github-readme-streak-stats.herokuapp.com/demo/
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Afirestriker&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p>
+  <a href="https://github.com/afirestriker">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afirestriker&theme=buefy&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afirestriker&theme=buefy&layout=compact" />  
+  </a>
+<p>
 
-<a href="https://github.com/afirestriker">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afirestriker&theme=buefy&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afirestriker&theme=buefy&layout=compact" />
+<div align="center">  
 
-### 🔗 Find me around the web...
-- You can connect and follow me on <a href="https://linkedin.com/in/ashish-agrawal-india">linkedin/in/ashish-agrawal-india</a>
-- You can view me on <a href="https://twitter.com/_afirestriker">Twitter/_afirestriker</a>
-- Subscribe me now on my <a href="https://www.youtube.com/c/SpecialDays">YouTube/specialdays</a>
+  **📫 Reach me at:**<br>
+
+  [Linkedin](https://www.linkedin.com/in/iashish-agrawal/)
+  &nbsp;
+  [Twitter](https://www.twitter.com/_afirestriker/)
+  &nbsp;
+  [Gmail](mailto:agrawalashish.in@gmail.com/)
+  &nbsp;
+  [Youtube](https://www.youtube.com/c/SpecialDays/)
+  &nbsp;
+  [Codeforces](https://codeforces.com/profile/agrawal-ashish)
+
+</div>
+
+⭐️ From [Ashish Agrawal](https://github.com/afirestriker)

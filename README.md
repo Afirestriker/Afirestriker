@@ -1,35 +1,58 @@
-<h1> 👋 Hey Hi, I'm Ashish Agrawal ✨ </h1>
 <img align="right" width="200" height="200" src="./Images/Octacat-img1.png?raw=true"></a>
+<h1> 👋 Hey Hi, I'm Ashish Agrawal ✨ </h1>
 <h3> 🚀 Specialize in Computer Applications | Front-End Developer 🚀 </h3>
 
-### About Me:
-- 🔭 Playing strategic games, Reading, Content Creation, and Spending time with nature.
-
-### 🛠 Tech Stack
-
-<div> 
-  <img src="./Icons/google_cloud_48x48.png" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform">
-  <a href="https://www.credly.com/go/Lsvab3Ph" target="_blank"><img src="./Icons/google-ux-design_badge_48x48.png" alt="Google UX Design Certified Badge" title="Google UX Certified"></a>
-  <a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ" target="_blank"><img src="./Icons/postman_student_expert_badge_48x48.png" alt="Postman Student Expert Badge" title="Postman Student Expert"></a>
-  <img src="./Icons/cpp_48x48.png" alt="CPP" title="C++">
-  <img src="./Icons/Java-icon.png" alt="Java" title="Java">
-  <img src="./Icons/HTML_48x48.png" alt="HTML5" title="HTML5">
-  <img src="./Icons/CSS-icon.png" alt="CSS3" title="CSS3">
-  <img src="./Icons/SASS_48x48.png" alt="SASS" title="SASS">
-  <img src="./Icons/JavaScript-48x48.png" alt="JavaScript" title="JavaScript">
-  <img src="./Icons/PHP_48x48.png" alt="PHP" title="PHP">
-  <img src="./Icons/Bootstrap-48x48.png" alt="BootStrap" title="Bootstrap">
+<div>
+  
+### :octocat: About Me:
+- 🔭 &nbsp; Exploring new technologies, developing software solutions and improving Programmer skills.
+- 💼 &nbsp; Currently focusing on JavaScript.
+- ✍️ &nbsp; Gaming and Reading as hobbies.
 </div>
 
+### 🧑‍💻 Tech Skills
+<div> 
+  <a href="https://www.credly.com/go/Lsvab3Ph" target="_blank"><img src="./Icons/google-ux-design_badge_48x48.png" alt="Google UX Design Certified Badge" title="Google UX Certified"></a>
+
+  - 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-black?logo=C&logoColor=A8B9CC)
+  ![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-black?logo=CoffeeScript&logoColor=D83B01)
+  ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&logoColor=777BB4)
+  - ☁️ &nbsp;	
+	![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?logo=googlecloud&logoColor=4285F4)
+  - 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=HTML5&logoColor=E34F26)
+  ![CSS](https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/-SASS-black?logo=SASS&logoColor=pink)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=F7DF1E)
+  ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&logoColor=0769AD)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=7952B3)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=007ACC)
+	<a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ">
+		![Postman Student Expert](https://img.shields.io/badge/-Postman%20Student%20Expert-black?logo=Postman&logoColor=FF6C37)
+	</a>
+</div>
+
+<div>
+
 ### ⚡️ Fun fact:
-- Awarded 🥇 as Best Sport Player of the year in 2014.
-- Lead my school ⚽ team to our first 🏆 in competitive tournament.
-- ➕70% winning ratio in online FiFa with over 🔥1500+ matched played.
+- 🕹️ &nbsp; Online Fifa competitor over ⬆️70% winning ratio with 🔥1500+ matches played.
+- 🏆 &nbsp; Won best sport player of the year award in interschool competition held in Jan-Feb 2014.
+- 🏃 &nbsp; Acknowledge as the best 100m runner at a hereditary estate level in 2014.
+- ⚽ &nbsp; Lead school socer team to first major competitive final in interschool tournament 2014.
+</div>
+
+<br>
 
 ### GitHub Stats
 <p>
   <a href="https://github.com/afirestriker">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afirestriker&theme=buefy&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=afirestriker&theme=buefy&show_icons=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afirestriker&theme=buefy&layout=compact" />  
   </a>
 <p>

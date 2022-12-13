@@ -40,9 +40,6 @@
   - 🔧 &nbsp;
   	![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=007ACC)
   	![Postman Student Expert](https://img.shields.io/badge/-Postman-black?logo=Postman&logoColor=FF6C37)
-	<a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ">
-		![Postman Student Expert](https://img.shields.io/badge/-Postman%20Student%20Expert-black?logo=Postman&logoColor=FF6C37)
-  	</a>
 </div>
 
 <div>

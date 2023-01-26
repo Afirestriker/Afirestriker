@@ -5,7 +5,7 @@
 <div>
 
 ### :octocat: About Me:
-- 🔭 &nbsp; Exploring new technologies, developing software solutions and improving Programmer skills.
+- 🔭 &nbsp; Exploring new technologies, developing software solutions and Programmer skills.
 - 💼 &nbsp; Currently focusing on JavaScript.
 - ✍️ &nbsp; Gaming and Reading as hobbies.
 </div>

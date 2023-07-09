@@ -1,13 +1,13 @@
 <img  src="./Images/Octocat-v2.png" alt="Octacat-v2" align="right" width="200" height="200"></a>
 <h1> 👋 Hey Hi, I'm Ashish Agrawal ✨ </h1>
-<h3> 🚀 Specialize in Computer Applications | Front-End Developer 🚀 </h3>
+<h3> 🚀 Front-End Developer | Specialize in Computer Applications 🚀 </h3>
 
 <div>
 
 ### :octocat: About Me:
-- 🔭 &nbsp; Exploring new technologies, developing software solutions and Programmer skills.
-- 💼 &nbsp; Currently focusing on JavaScript.
-- ✍️ &nbsp; Gaming and Reading as hobbies.
+- 🔭 &nbsp; Exploring new technologies, developing software solutions and Upgrading Programming skills.
+- 💼 &nbsp; Currently focusing on ReactJS.
+- ✍️ &nbsp; Playing Soccer, Reading & Content Creation as hobbies.
 </div>
 
 ### 🧑‍💻 Tech Stack
@@ -45,10 +45,10 @@
 <div>
 
 ### ⚡️ Fun Fact:
-- 🕹️ &nbsp; Online Fifa competitor over ⬆️70% winning ratio with 🔥1500+ matches played.
-- 🏆 &nbsp; Won best sport player of the year award in interschool competition held in Jan-Feb 2014.
-- 🏃 &nbsp; Acknowledge as the best 100m runner at a hereditary estate level in 2014.
-- ⚽ &nbsp; Lead school socer team to first major competitive final in interschool tournament 2014.
+- 🕹️ &nbsp;&nbsp; Online Fifa competitor over ⬆️70% winning ratio with 🔥1500+ matches played.
+- 🏆 &nbsp; Awarded with best sport player of the year award in interschool competition.
+- 🏃 &nbsp; Acknowledge as the best 100m runner at a hereditary estate level.
+- ⚽ &nbsp; Lead school socer team to first major competitive final in interschool tournament.
 </div>
 <br>
 

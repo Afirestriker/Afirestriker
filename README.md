@@ -18,7 +18,8 @@
   	![CSS](https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=1572B6)
   	![SASS](https://img.shields.io/badge/-SASS-black?logo=SASS&logoColor=pink)
   	![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=F7DF1E)
-  	![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&logoColor=0769AD)
+  	![React](https://img.shields.io/badge/-React-black?logo=React)
+	![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&logoColor=0769AD)
   	![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=7952B3)
   - 💻 &nbsp;
   	![C](https://img.shields.io/badge/-C-black?logo=C&logoColor=A8B9CC)

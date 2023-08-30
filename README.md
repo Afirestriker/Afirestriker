@@ -2,16 +2,18 @@
 
 # 👋 Hi, I'm Ashish ✨
 
-<h3> 🚀 Front-End Developer | Specialize in Computer Applications 🚀 </h3>
+<h3> 🚀 Expertise In Front-End Development 🚀 </h3>
 
 
 ### :octocat: About Me:
+
 - 🔭 &nbsp; Exploring new technologies & developing software solutions.
 - 💼 &nbsp; Full-time Front End Developer.
-- ✍️ &nbsp; Playing Soccer, Reading, Designing & Content Creation as hobbies.
+- ✍️ &nbsp; Reading, Content Creation, Soccer, TT, Travleing as hobbies.
 
 
 ### 🧑‍💻 Tech Stack
+
   - 🌐 &nbsp;
   	![JavaScript](https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=javascript&logoColor=F7DF1E)
   	![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=61DBFB)
@@ -49,34 +51,66 @@
   	</a>
 
 
+### 🌱 My Open Source Contribution
+- [Marinara Promodora Assistant](https://github.com/schmich/marinara/pull/498) - JavaScript | JSON
+
+
 ### 🌱 My Projects
 
 - [Afirestriker/KHub](https://github.com/Afirestriker/KHub__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
 - [Afirestriker/Intern_&_Hireup](https://github.com/Afirestriker/Intern_HireUp__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
+- [Afirestriker/HoliVista](https://github.com/Afirestriker/Holi-Vista__HTML-CSS-JS) - Vanilla JS | HTML | CSS
+
 
 #### 🌱 My JavaScript Projects
 
-- [Afirestriker/JavaScript/../Currency-Exchange-Rates](https://github.com/Afirestriker/JavaScript/tree/main/JS_API/Currency%20Exchange%20Rates) - Vanilla JS | HTML | CSS
-- [Afirestriker/JavaScript/../Duplicate-Selection-Check](https://github.com/Afirestriker/JavaScript/blob/main/JS_Mini_Projects/Duplicate-Selection-Check) - JavaScript | jQuery | HTML | CSS
-- [Afirestriker/JavaScript/../Captcha-Verification](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Math-Captcha-Verification) - JavaScript | jQuery | HTML | CSS
+- [Afirestriker/JavaScript/.../Currency-Exchange-Rates](https://github.com/Afirestriker/JavaScript/tree/main/JS_API/Currency%20Exchange%20Rates) - Vanilla JS | HTML | CSS
+- [Afirestriker/JavaScript/.../Duplicate-Selection-Check](https://github.com/Afirestriker/JavaScript/blob/main/JS_Mini_Projects/Duplicate-Selection-Check) - JavaScript | jQuery | HTML | CSS
+- [Afirestriker/JavaScript/.../Captcha-Verification](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Math-Captcha-Verification) - JavaScript | jQuery | HTML | CSS
 - [The logic behind social feed infinite scrol](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Infinite-Scroll) - JavaScript | jQuery | HTML | CSS
-- [Afirestriker/JavaScript/../ToDo-List-Application](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/ToDo-List%20Application) - Vanilla JS | HTML | CSS
+- [Afirestriker/JavaScript/.../ToDo-List-Application](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/ToDo-List%20Application) - Vanilla JS | HTML | CSS
+- [Afirestriker/HoliVista](https://github.com/Afirestriker/Holi-Vista__HTML-CSS-JS) - Vanilla JS | HTML | CSS
+
+
+#### 🌱 My JavaScript Projects
+
+- [Afirestriker/React-Project/.../ToDO-Application](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/todo-app) - JavaScript | React | HTML | CSS
+- [Afirestriker/React-Project/.../MathCalculation](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/MathCalculation) - JavaScript | React | HTML | CSS
+
+
+### 🌱 My Java Projects
+
+- [Ashish/KHub](https://github.com/Afirestriker/KHub__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
+- [Ashish/Intern_&_Hireup](https://github.com/Afirestriker/Intern_HireUp__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
+
+
+### 🌱 My C-Programming Projects
+- [Afirestriker/C-Programming/.../KBC Game](https://github.com/Afirestriker/C-Programming/tree/main/C%20programming%20Projects/Cp-KBC%20Project) - C-Programming
+- [Array Sotr Using Dyanmic Memory Allocation](https://github.com/Afirestriker/C-Programming/tree/main/C%20programming%20Projects/Array_sorting_programme/using%20dynamic%20memory%20allocation) - C-Programming
+
+
+### 🌱 My DSA Programs
+- [Dyanmic Stack Implementation](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Stack/stack_dynamic_implementation.c) - C-Programming
+- [Dynamic Queue Implementation](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Queue/queue_dyamic_implementation.c) - C-Programming
+- [Binary Search](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Searching/Binary%20search/Binary_Search%20non-recursive.c) - C-Programming
+- [Recursive Binary Search](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Searching/Binary%20search/Binary_Search%20recursive.c) - C-Programming
+- [Circular Link List](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Link%20list/circular%20single%20linked%20list.c) - C-Programming
+- [Doubly Link List](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Link%20list/doubly%20link%20list.c) - C-Programming
+- [Singly Link List](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Link%20list/single%20link%20list%20with%20less%20code.c) - C-Programming
+- [Bubble Sort](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Sorting/Bubble_sort.c) - C-Programming
+- [Selection Sort](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Sorting/Selection_sort.c) - C-Programming
+- [Insertion Sort](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Sorting/Insertion_sort.c) - C-Programming
+
 
 #### 🌱 My Android Projects
 
-- [Afirestriker/Android-Programming/../WeatherAppUI](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/001_WeatherAppUI) - Java | XML
-- [Afirestriker/Android-Programming/../CalC](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/002_CalcApp) - Java | XML
-- [Afirestriker/Android-Programming/../FlagListView](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/005_FlagListView) - Java | XML
+- [Afirestriker/Android-Programming/.../WeatherAppUI](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/001_WeatherAppUI) - Java | XML
+- [Afirestriker/Android-Programming/.../FlagListView](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/005_FlagListView) - Java | XML
+- [Afirestriker/Android-Programming/.../CountryListView](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/004_CountryListView) - Java | XML
+- [Afirestriker/Android-Programming/.../CalC](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/002_CalcApp) - Java | XML
+- [Afirestriker/Android-Programming/.../MultiTable](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/003_MultiTable) - Java | XML
 
 
-<!--
-<div>
-### ⚡️ Fun Fact:
-- 🕹️ &nbsp;&nbsp; Online Fifa competitor with 70+ % winning ratio, 🔥1500+ matches played.
-- 🏆 &nbsp; Awarded best sport player award in interschool competition.
-- 🏃 &nbsp; Acknowledge as the best runner in 100m track race at a hereditary estate level.
-</div>
--->
 
 <!-- 
 ### GitHub Stats
@@ -87,6 +121,8 @@
   </a>
 <p>
 -->
+
+<br>
 
 <div align="center">  
 

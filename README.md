@@ -4,20 +4,20 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Afirestriker}/count.svg)
 
 
-# 👋 Hi, I'm Ashish ✨
+## 👋 Hi, I'm Ashish ✨
 
 
 ### 🚀 Expertise In Front-End Development 🚀
 
 
-### :octocat: About Me:
+#### :octocat: About Me:
 
 - 🔭 &nbsp; Exploring new technologies & developing software solutions.
 - 💼 &nbsp; Full-time Front End Developer.
 - ✍️ &nbsp; Reading, Content Creation, Soccer, and Travel as hobbies.
 
 
-### 🧑‍💻 Tech Stack
+#### 🧑‍💻 Tech Stack
 
   - 🌐 &nbsp;
   	![JavaScript](https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -56,11 +56,11 @@
   	</a>
 
 
-### 🌱 My Open Source Contribution
+#### 🌱 My Open Source Contribution
 - [Marinara Promodora Assistant](https://github.com/schmich/marinara/pull/498) - JavaScript | JSON
 
 
-### 🌱 My Projects
+#### 🌱 My Projects
 
 - [Afirestriker/KHub](https://github.com/Afirestriker/KHub__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
 - [Afirestriker/Intern_&_Hireup](https://github.com/Afirestriker/Intern_HireUp__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
@@ -83,18 +83,18 @@
 - [Afirestriker/React-Project/.../MathCalculation](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/MathCalculation) - JavaScript | React | HTML | CSS
 
 
-### 🌱 My Java Projects
+#### 🌱 My Java Projects
 
 - [Ashish/KHub](https://github.com/Afirestriker/KHub__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
 - [Ashish/Intern_&_Hireup](https://github.com/Afirestriker/Intern_HireUp__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
 
 
-### 🌱 My C-Programming Projects
+#### 🌱 My C-Programming Projects
 - [Afirestriker/C-Programming/.../KBC Game](https://github.com/Afirestriker/C-Programming/tree/main/C%20programming%20Projects/Cp-KBC%20Project) - C-Programming
 - [Array Sotr Using Dyanmic Memory Allocation](https://github.com/Afirestriker/C-Programming/tree/main/C%20programming%20Projects/Array_sorting_programme/using%20dynamic%20memory%20allocation) - C-Programming
 
 
-### 🌱 My DSA Programs
+#### 🌱 My DSA Programs
 - [Dyanmic Stack Implementation](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Stack/stack_dynamic_implementation.c) - C-Programming
 - [Dynamic Queue Implementation](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Queue/queue_dyamic_implementation.c) - C-Programming
 - [Binary Search](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Searching/Binary%20search/Binary_Search%20non-recursive.c) - C-Programming
@@ -118,7 +118,7 @@
 
 
 <!-- 
-### GitHub Stats
+#### GitHub Stats
 <p>
   <a href="https://github.com/afirestriker">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=afirestriker&theme=buefy&show_icons=true" />

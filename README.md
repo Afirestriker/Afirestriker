@@ -1,58 +1,84 @@
 <img  src="./Images/Octocat-v2.png" alt="Octacat-v2" align="right" width="200" height="200"></a>
-<h1> 👋 Hey Hi, I'm Ashish Agrawal ✨ </h1>
+
+# 👋 Hi, I'm Ashish ✨
+
 <h3> 🚀 Front-End Developer | Specialize in Computer Applications 🚀 </h3>
 
-<div>
 
 ### :octocat: About Me:
-- 🔭 &nbsp; Exploring new technologies, developing software solutions and +Programming skills.
-- 💼 &nbsp; Currently focusing on ReactJS Development.
-- ✍️ &nbsp; Playing Soccer, Reading & Content Creation as hobbies.
-</div>
+- 🔭 &nbsp; Exploring new technologies & developing software solutions.
+- 💼 &nbsp; Full-time Front End Developer.
+- ✍️ &nbsp; Playing Soccer, Reading, Designing & Content Creation as hobbies.
+
 
 ### 🧑‍💻 Tech Stack
-<div>
-
   - 🌐 &nbsp;
-  	![HTML5](https://img.shields.io/badge/-HTML5-black?logo=HTML5&logoColor=E34F26)
-  	![CSS](https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=1572B6)
-  	![SASS](https://img.shields.io/badge/-SASS-black?logo=SASS&logoColor=pink)
-  	![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=F7DF1E)
-  	![React](https://img.shields.io/badge/-React-black?logo=React)
-	![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&logoColor=0769AD)
-  	![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=7952B3)
+  	![JavaScript](https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=javascript&logoColor=F7DF1E)
+  	![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=61DBFB)
+	![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+  	![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white)
+  	![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+  	![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+  	![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=SASS&logoColor=white)
+  	![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  	![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white)
   - 💻 &nbsp;
-  	![C](https://img.shields.io/badge/-C-black?logo=C&logoColor=A8B9CC)
-  	![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B&logoColor=00599C)
-  	![Java](https://img.shields.io/badge/-Java-black?logo=CoffeeScript&logoColor=D83B01)
-  	![PHP](https://img.shields.io/badge/-PHP-black?logo=php&logoColor=777BB4)
+  	![Java](https://img.shields.io/badge/-Java-D83B01?style=flat&logo=CoffeeScript&logoColor=white)
+  	![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+  	![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+  	![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  	![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
+  - 🛢 &nbsp;
+	![MySQL](https://img.shields.io/badge/-MySQL-f29111?style=flat&logo=mysql&logoColor=black)
+	![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
+	![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   - ☁️ &nbsp;	
-	![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?logo=googlecloud&logoColor=4285F4)
+	![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
   - ⚙️ &nbsp;
-  	![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=F05032)
-  	![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+  	![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  	![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
   - 🔧 &nbsp;
-  	![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=007ACC)
-  	![Postman Student Expert](https://img.shields.io/badge/-Postman-black?logo=Postman&logoColor=FF6C37)
+  	![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  	![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
   - 📜 &nbsp;
 	<a href="https://www.credly.com/go/Lsvab3Ph">
-		![Google UX certified](https://img.shields.io/badge/-Google%20UX%20Certified-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5gwLDQMUJxcs0gAACO9JREFUWMPtl1tsXEcZx3/fnMteHa/t2g52XWJE2txICKCCgAfEpaWIAhI8cJEqxAMSEqIS4gF4gwdULkJqEA8geImQKq5vgIQqqiJEWvWSBFIXnNihjh3b8a7X66x3z23m4+Hsrp2mUCIVEIhPGp35ZubM+c/M9/3nf+D/9j9i0q+k8TYgOAJU8zZV3S15w8Dv9zvnBr7v+4gIIvm0L36+VJuI4JxlbW2VcqnE5P6pfK7+C73JPUWPqLIvb1KgV4yHqsHTFCceNstuANh/isjA9wwEviA9AJJXcA6STNnz7QTV51S1228bAPM9D4SqSvBdVd6kqlZVsU55YcMxZK8zWtqmrkOkO03Gh29DgwD2gOnvVr+0Oo5622IEMgtKDrJS9JgZDzD5OLHWrCdpen+5XJ67CZh4hZ7vDSOUcIqiIA6LEDe20coii8mdDLc2GS8OQVDIV9zfVTGIGBBBjNDsOOavZsSZ4okQZ1AKDWNDMDNeREy+i+IYtlZDh+HUqVP5Ii9dusSBAwcwW4/C1uMjiv+YKie0F36KoNqrK0SZITBgjORwen1ODe0oxKr03upB7h1rbzQi+ZEbYRAm1rrmny+33ueVZp7Y6L6KQ4cO4XueB1CWsXt9d/3Zqlv+nkPz1UO+A9KrI4aqGJS+7w36rBq6jZA4BXCgrpcsbten5/f7cIg6oiwcfqF1/7dtOPSz2jC/KhQK83L27Fn/2LFjX/M8712oVe1cvAvXreYJK3tyt59Zu0/nHM45wrCAKmy3Y7LMYq1FhEH/DdmtN/qoI3NCOxnGiU8YBM8EQfBhP01TUdU7gTcgHlI9/E/xjLPKuXPnUFXGxioI0O0akjSh2WwyNDTE9NQ0QRjg3B5AbheU6wENVBlRhzqHU52w1hb7we/25O7Lk58Iqpaou0Oj0WDphctYa0nTlO3tbQDCMKQ2vI9aUBscHXvoR/e27eXK3gD/ZVHsMVUlTdMBsR49ehTnHJ1Oh2q1ShRFLCwsMDk5ied5DA8PA2CMwVp7K5/iloAlScL58+cREdbW1vB9nyNHjnD27FlqtRrVapVKpcLGxgZRFFEoFAYLmp2dpZdorzwwYwxbW1skSUKSJERRRJZleJ7H8vIyGxsb1Go1Op0OQRDgnCOOYyYmJhgfH6dWqw3o4xUFFgQBJ0+eJIoiisUiIkIYhhw+fJjR0VEajQbAAPC5c+c4fvw4+/fvp1gs/tOgbhlYfwdKpRLj4+ODtjAM6XQ6+L5PsVhkcnKSLMuYmJjAGEMYhgPqeMWBiQgrKyvMz89z++23c/78eYIgQFWp1+sALC8vMzMzw+joKCJCvV4njmMqlQp33HEH09PTt3aUe2XJi+Dc4IVhiFPl2rVrLF6+zL6hIY6fOJFThAgHDx5kc7OJMVtsb1+n0+lQKpVYWlpibGwM9n4nv5v+PjBVJUkSd7OOUnxjyWklbx8fG+KNrz+KMYZjRw4Ojm5q/yhGDHEckaYpURwhyGCeNMsoFoq4dAdVh8u5S40pdJ2KU7SP2AAdQP1Wq5XNzc2dWl9fb7bb7XdZaw8AEniOtxzcoFZoYLNOvjoRfAHVFkaGUCnRRTDioZqh15/B2DZlckD9DSnQE5VoLu0Emh3JfrN01w8PHfr4rw9MzHR6V5eISFdEluWpp55ienqaqakpeeihh15TDIvvWSytf3ot3Do5NZYyUslw2Q5qY3KNYFG3gUgJMSOAByKozdhceo60uwNCT3ntWn/flRzYtTY8vuRtJX748+sLFz/722/+PrrztgM450iSBDl9+jSdTidndJSnKws8V13+kihfK/kl2kkXh+KLh298PDF0bYJTixHTUw/53dlcaJLspHjG0I47N4SB7/lkNiP0AqxarLP4uR67gJF3AI3GN57ejbEHHngAgIcffpivZqd5zcQszjl9dXWKqcpEfvAihCZgKKyyL6yw2LqCVcdYsUY3i7jSXmO8OIoWLNcadTppRDksUvQL2J7cqZX20U0jSkGBVreNoqxv1/nj1b+85F1l+pUHH3yQV8kYSi6RO1lE6jLKfk6M9ahJPWpyqbVE4AXsC6skLqXgFQhNQGgCFutLbLQ38Y1HtVAmyRJ84zFd209iUwRhq3OdwPMJvQCnfbF9c3bezGMiGMRsxi22ku1BwAK4nlQxIoO/pn7kOLfA6tV14naMMWYgbXzPI/ACummEJ7sEpLuf819MSzcBc3FG0ryOCf2r6fVOw8XpWD9MfM/jxMwE1dDh3K7CzVWu4KylMbpDUtq5gf/U5qrHOkmf3yk903b+tuwC9FAuAuk/BLb55DJaaeGXq49EG9f+5NLk/ap6P6rHRKRw37vv4YsfuBeTrGPTLXAOxAcJQROSkd/hsvUbgSloImy15MffOVP7/PejA9ujfro7wDPOlP3kxad5gw6pHhxFgxjP923W7ayK5z/u0vgXAk845+LnV1bGJscPDd/9uvdRrM4ShCP4XgHP+HgisPMsxu7g9Sb2eit3yqNX6uZzxw7K6o/mR2zR0wwlL4KVwENRun9Y3Y2ol8qIsfuKWDIEyX/NFIIgMFvt7mtPzL723tNf+NZHD99x8K0KqE1xSZNsZ5H25W/idv7M3tlTK0/+dc3/1Nve7OY4bikXoRvzsvaSl3jj19GgPvLeEBVHlmUu9Jn/xDs/NF+ujv3MSXhKxHxETAUvHEPKs3g6jms8hm49Bp150rT7zHLd+8zb7rFzMltiejyiG9+akn1ZG77XZ+S+nDpamxdIOsuTNrr6iItW1cXraqNr2txY0PrqX7R+5QldefbrZ858f+KkNmaBCncfvSWFdet2deWPaHSFLFoljZujNml+z6XbmU22datxRRvrC7q6NPebM2eeOKzrHwM+yNuPB/9aUH27cuUimm5ikxZx3KnYLPqKzeKdVnPdrSxd/NFjj/5yRrUFwJvvPvnvAdW3xcWL2KxLmnSJYvWSJPnk2urKl3/6k0dq9WsvoKrM3D797wXVt7m5OZIkodvtDJj+0sXnUVXK5fJ/BlTfLly4wOLiInNzc/zwBz9AVW/pN+2/zv4GOnY3lCephwsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMTItMTFUMTM6MDM6MTErMDA6MDC7/vWGAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTEyLTExVDEzOjAzOjExKzAwOjAwyqNNOgAAAABJRU5ErkJggg==)
+		![Google UX certified](https://img.shields.io/badge/-Google%20UX%20Certified-black?style=flat&logo=data:image/png;base64,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)
 	</a>
 	<a href="https://badgr.com/public/assertions/9yWH06MVTkqu6AtITDiXEQ">
-		![Postman Student Expert](https://img.shields.io/badge/-Postman%20Student%20Expert-black?logo=Postman&logoColor=FF6C37)
+		![Postman Student Expert](https://img.shields.io/badge/-Postman%20Student%20Expert-FF6C37?style=flat&logo=Postman&logoColor=white)
   	</a>
-</div>
 
+
+### 🌱 My Projects
+
+- [Afirestriker/KHub](https://github.com/Afirestriker/KHub__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
+- [Afirestriker/Intern_&_Hireup](https://github.com/Afirestriker/Intern_HireUp__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
+
+#### 🌱 My JavaScript Projects
+
+- [Afirestriker/JavaScript/../Currency-Exchange-Rates](https://github.com/Afirestriker/JavaScript/tree/main/JS_API/Currency%20Exchange%20Rates) - Vanilla JS | HTML | CSS
+- [Afirestriker/JavaScript/../Duplicate-Selection-Check](https://github.com/Afirestriker/JavaScript/blob/main/JS_Mini_Projects/Duplicate-Selection-Check) - JavaScript | jQuery | HTML | CSS
+- [Afirestriker/JavaScript/../Captcha-Verification](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Math-Captcha-Verification) - JavaScript | jQuery | HTML | CSS
+- [The logic behind social feed infinite scrol](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Infinite-Scroll) - JavaScript | jQuery | HTML | CSS
+- [Afirestriker/JavaScript/../ToDo-List-Application](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/ToDo-List%20Application) - Vanilla JS | HTML | CSS
+
+#### 🌱 My Android Projects
+
+- [Afirestriker/Android-Programming/../WeatherAppUI](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/001_WeatherAppUI) - Java | XML
+- [Afirestriker/Android-Programming/../CalC](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/002_CalcApp) - Java | XML
+- [Afirestriker/Android-Programming/../FlagListView](https://github.com/Afirestriker/Android-Programming/tree/main/Android-Projects/005_FlagListView) - Java | XML
+
+
+<!--
 <div>
-
 ### ⚡️ Fun Fact:
-- 🕹️ &nbsp;&nbsp; Online Fifa competitor over ⬆️70% winning ratio with 🔥1500+ matches played.
-- 🏆 &nbsp; Awarded with best sport player of the year award in interschool competition.
-- 🏃 &nbsp; Acknowledge as the best 100m runner at a hereditary estate level.
-- ⚽ &nbsp; Lead school socer team to first major competitive final in interschool tournament.
+- 🕹️ &nbsp;&nbsp; Online Fifa competitor with 70+ % winning ratio, 🔥1500+ matches played.
+- 🏆 &nbsp; Awarded best sport player award in interschool competition.
+- 🏃 &nbsp; Acknowledge as the best runner in 100m track race at a hereditary estate level.
 </div>
-<br>
+-->
 
+<!-- 
 ### GitHub Stats
 <p>
   <a href="https://github.com/afirestriker">
@@ -60,6 +86,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afirestriker&theme=buefy&layout=compact" />  
   </a>
 <p>
+-->
 
 <div align="center">  
 
@@ -67,13 +94,15 @@
 
   [Linkedin](https://www.linkedin.com/in/iashish-agrawal/)
   &nbsp;
-  [Twitter](https://www.twitter.com/_afirestriker/)
-  &nbsp;
   [Gmail](mailto:agrawalashish.in@gmail.com/)
+  &nbsp;
+  [Codeforces](https://codeforces.com/profile/Agrawal_Ashish)
+  &nbsp;
+  [StackOverflow](https://meta.stackoverflow.com/users/22471209)
   &nbsp;
   [Youtube](https://www.youtube.com/c/SpecialDays/)
   &nbsp;
-  [Codeforces](https://codeforces.com/profile/Agrawal_Ashish)
+  [Twitter](https://www.twitter.com/_afirestriker/)
 
 </div>
 

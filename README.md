@@ -1,5 +1,4 @@
-<img src="./Images/Octocat-v2.png" alt="Image" align="right" width="200" height="200"></a>
-
+<!-- <img src="./Images/Octocat-v2.png" alt="Image" align="right" width="200" height="200"></a> -->
 
 ![Visitor Count](https://profile-counter.glitch.me/{Afirestriker}/count.svg)
 

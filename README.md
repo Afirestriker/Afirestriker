@@ -1,15 +1,20 @@
-<img  src="./Images/Octocat-v2.png" alt="Octacat-v2" align="right" width="200" height="200"></a>
+<img src="./Images/Octocat-v2.png" alt="Image" align="right" width="200" height="200"></a>
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Afirestriker}/count.svg)
+
 
 # 👋 Hi, I'm Ashish ✨
 
-<h3> 🚀 Expertise In Front-End Development 🚀 </h3>
+
+### 🚀 Expertise In Front-End Development 🚀
 
 
 ### :octocat: About Me:
 
 - 🔭 &nbsp; Exploring new technologies & developing software solutions.
 - 💼 &nbsp; Full-time Front End Developer.
-- ✍️ &nbsp; Reading, Content Creation, Soccer, TT, Travleing as hobbies.
+- ✍️ &nbsp; Reading, Content Creation, Soccer, and Travel as hobbies.
 
 
 ### 🧑‍💻 Tech Stack
@@ -72,7 +77,7 @@
 - [Afirestriker/HoliVista](https://github.com/Afirestriker/Holi-Vista__HTML-CSS-JS) - Vanilla JS | HTML | CSS
 
 
-#### 🌱 My JavaScript Projects
+#### 🌱 My React Projects
 
 - [Afirestriker/React-Project/.../ToDO-Application](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/todo-app) - JavaScript | React | HTML | CSS
 - [Afirestriker/React-Project/.../MathCalculation](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/MathCalculation) - JavaScript | React | HTML | CSS

@@ -68,6 +68,7 @@
 
 #### 🌱 My JavaScript Projects
 
+- [Afirestriker/GraphQL/](https://github.com/Afirestriker/GraphQL) - JavaScript | Node.js | GraphQL | Apollo-Server
 - [Afirestriker/JavaScript/.../Currency-Exchange-Rates](https://github.com/Afirestriker/JavaScript/tree/main/JS_API/Currency%20Exchange%20Rates) - Vanilla JS | HTML | CSS
 - [Afirestriker/JavaScript/.../Duplicate-Selection-Check](https://github.com/Afirestriker/JavaScript/blob/main/JS_Mini_Projects/Duplicate-Selection-Check) - JavaScript | jQuery | HTML | CSS
 - [Afirestriker/JavaScript/.../Captcha-Verification](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Math-Captcha-Verification) - JavaScript | jQuery | HTML | CSS

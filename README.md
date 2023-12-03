@@ -30,7 +30,7 @@
   	![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
   	![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=SASS&logoColor=white)
   	![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white)
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white)
   - 💻 &nbsp;
   	![Java](https://img.shields.io/badge/-Java-D83B01?style=flat&logo=CoffeeScript&logoColor=white)
   	![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)

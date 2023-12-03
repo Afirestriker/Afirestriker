@@ -79,6 +79,7 @@
 - [Afirestriker/JavaScript/.../Duplicate-Selection-Check](https://github.com/Afirestriker/JavaScript/blob/main/JS_Mini_Projects/Duplicate-Selection-Check) - JavaScript | jQuery | HTML | CSS
 - [Afirestriker/JavaScript/.../Captcha-Verification](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Math-Captcha-Verification) - JavaScript | jQuery | HTML | CSS
 - [Afirestriker/JavaScript/.../The logic behind social feed infinite scroll](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Infinite-Scroll) - JavaScript | jQuery | HTML | CSS
+- [Afirestriker/JavaScript/.../iframeAndUrlReloadUsingCounter](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/iFrameLoadUrlUsingSetInterval) - Vanilla JS | HTML | CSS
 - [Afirestriker/JavaScript/.../Fan On-Off](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Fan%20On-Off) - Vanilla JS | HTML | CSS
 - [Afirestriker/JavaScript/.../ToDo-List-Application](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/ToDo-List%20Application) - Vanilla JS | HTML | CSS
 - [Afirestriker/HoliVista](https://github.com/Afirestriker/Holi-Vista__HTML-CSS-JS) - Vanilla JS | HTML | CSS

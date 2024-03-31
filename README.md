@@ -100,6 +100,10 @@
 - [Afirestriker/React-Project/.../MathCalculation](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/MathCalculation) - JavaScript | ReactJS | HTML | CSS
 
 
+#### 🌱 My npm Package Projects
+- [Afirestriker/npm-package/greet-afirestriker](https://github.com/Afirestriker/npm-package) - JavaScript
+
+
 #### 🌱 My Java Projects
 
 - [Ashish/KHub](https://github.com/Afirestriker/KHub__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS

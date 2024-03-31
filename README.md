@@ -76,12 +76,12 @@
 - [Afirestriker/JavaScript/.../GaugeJS](https://github.com/Afirestriker/JavaScript/tree/main/Plugin/Gauge.js) - JavaScript | Gauge.js | jQuery | HTML | CSS
 - [Afirestriker/JavaScript/.../Select2 cascading](https://github.com/Afirestriker/JavaScript/tree/main/Plugin/Select2%20cascading) - JavaScript | Select2.js | jQuery | HTML | CSS
 - [Afirestriker/JavaScript/.../jQuery-Font-Icon-Picker](https://github.com/Afirestriker/JavaScript/tree/main/Plugin/jQuery-Font-Icon-Picker) - JavaScript | jQuery fontIconPicker | jQuery | HTML | CSS
-- [Afirestriker/JavaScript/.../Duplicate-Selection-Check](https://github.com/Afirestriker/JavaScript/blob/main/JS_Mini_Projects/Duplicate-Selection-Check) - JavaScript | jQuery | HTML | CSS
-- [Afirestriker/JavaScript/.../Captcha-Verification](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Math-Captcha-Verification) - JavaScript | jQuery | HTML | CSS
-- [Afirestriker/JavaScript/.../The logic behind social feed infinite scroll](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Infinite-Scroll) - JavaScript | jQuery | HTML | CSS
-- [Afirestriker/JavaScript/.../iframeAndUrlReloadUsingCounter](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/iFrameLoadUrlUsingSetInterval) - Vanilla JS | HTML | CSS
-- [Afirestriker/JavaScript/.../Fan On-Off](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/Fan%20On-Off) - Vanilla JS | HTML | CSS
-- [Afirestriker/JavaScript/.../ToDo-List-Application](https://github.com/Afirestriker/JavaScript/tree/main/JS_Mini_Projects/ToDo-List%20Application) - Vanilla JS | HTML | CSS
+- [Afirestriker/JavaScript/.../Duplicate-Selection-Check](https://github.com/Afirestriker/JavaScript/blob/main/JS_Projects/Duplicate-Selection-Check) - JavaScript | jQuery | HTML | CSS
+- [Afirestriker/JavaScript/.../Captcha-Verification](https://github.com/Afirestriker/JavaScript/tree/main/JS_Projects/Math-Captcha-Verification) - JavaScript | jQuery | HTML | CSS
+- [Afirestriker/JavaScript/.../The logic behind social feed infinite scroll](https://github.com/Afirestriker/JavaScript/tree/main/JS_Projects/Infinite-Scroll) - JavaScript | jQuery | HTML | CSS
+- [Afirestriker/JavaScript/.../iframeAndUrlReloadUsingCounter](https://github.com/Afirestriker/JavaScript/tree/main/JS_Projects/iFrameLoadUrlUsingSetInterval) - Vanilla JS | HTML | CSS
+- [Afirestriker/JavaScript/.../Fan On-Off](https://github.com/Afirestriker/JavaScript/tree/main/JS_Projects/Fan%20On-Off) - Vanilla JS | HTML | CSS
+- [Afirestriker/JavaScript/.../ToDo-List-Application](https://github.com/Afirestriker/JavaScript/tree/main/JS_Projects/ToDo-List%20Application) - Vanilla JS | HTML | CSS
 - [Afirestriker/HoliVista](https://github.com/Afirestriker/Holi-Vista__HTML-CSS-JS) - Vanilla JS | HTML | CSS
 
 

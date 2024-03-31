@@ -76,6 +76,7 @@
 - [Afirestriker/JavaScript/.../GaugeJS](https://github.com/Afirestriker/JavaScript/tree/main/Plugin/Gauge.js) - JavaScript | Gauge.js | jQuery | HTML | CSS
 - [Afirestriker/JavaScript/.../Select2 cascading](https://github.com/Afirestriker/JavaScript/tree/main/Plugin/Select2%20cascading) - JavaScript | Select2.js | jQuery | HTML | CSS
 - [Afirestriker/JavaScript/.../jQuery-Font-Icon-Picker](https://github.com/Afirestriker/JavaScript/tree/main/Plugin/jQuery-Font-Icon-Picker) - JavaScript | jQuery fontIconPicker | jQuery | HTML | CSS
+- [Afirestriker/JavaScript/.../Duplicate-Selection-Check](https://github.com/Afirestriker/JavaScript/blob/main/JS_Projects/strong-password-meter) - Vanilla JavaScript | zxcvbn.js | HTML | CSS
 - [Afirestriker/JavaScript/.../Duplicate-Selection-Check](https://github.com/Afirestriker/JavaScript/blob/main/JS_Projects/Duplicate-Selection-Check) - JavaScript | jQuery | HTML | CSS
 - [Afirestriker/JavaScript/.../Captcha-Verification](https://github.com/Afirestriker/JavaScript/tree/main/JS_Projects/Math-Captcha-Verification) - JavaScript | jQuery | HTML | CSS
 - [Afirestriker/JavaScript/.../The logic behind social feed infinite scroll](https://github.com/Afirestriker/JavaScript/tree/main/JS_Projects/Infinite-Scroll) - JavaScript | jQuery | HTML | CSS

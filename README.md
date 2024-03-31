@@ -88,13 +88,13 @@
 - [Afirestriker/HoliVista](https://github.com/Afirestriker/Holi-Vista__HTML-CSS-JS) - Vanilla JS | HTML | CSS
 
 
-#### 🌱 My NextJS Projects
+#### 🌱 My Next Projects
 
 - [Afirestriker/Next.js-Projects/next-todo-app](https://github.com/Afirestriker/Next.js-Projects/tree/main/next-todo-app) - JavaScript | React | HTML | CSS
 - [Afirestriker/Next.js-Projects/next-tailwind_css-daisyui-integration](https://github.com/Afirestriker/Next.js-Projects/tree/main/next-tailwind_css-daisyui-integration) - JavaScript | ReactJS | HTML | Tailwind-CSS | Daisy UI
 
 
-#### 🌱 My ReactJS Projects
+#### 🌱 My React Projects
 
 - [Afirestriker/React-Project/.../ToDO-Application](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/todo-app) - JavaScript | ReactJS | HTML | CSS
 - [Afirestriker/React-Project/.../MathCalculation](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/MathCalculation) - JavaScript | ReactJS | HTML | CSS

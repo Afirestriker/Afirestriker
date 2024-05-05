@@ -64,8 +64,9 @@
 
 #### 🌱 My Projects
 
+- [Afirestriker/next-stream](https://next-stream-website.vercel.app/) - Next | React | JavaScript | JSX | CSS
+- [Afirestriker/next-product-details](https://github.com/Afirestriker/next-product-details) - Next | React | JavaScript | JSX | CSS
 - [Afirestriker/KHub](https://github.com/Afirestriker/KHub__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
-- [Afirestriker/next-youtube-website](https://next-youtube-website.vercel.app/) - Next | React | JavaScript | JSX | CSS
 - [Afirestriker/Intern_&_Hireup](https://github.com/Afirestriker/Intern_HireUp__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
 - [Afirestriker/Chrome-Extension/Youtube-Playback-Speed](https://github.com/Afirestriker/chrome-extension) - Vanilla JS | HTML | CSS
 - [Afirestriker/HoliVista](https://github.com/Afirestriker/Holi-Vista__HTML-CSS-JS) - Vanilla JS | HTML | CSS
@@ -91,7 +92,8 @@
 
 #### 🌱 My Next Projects
 
-- [Afirestriker/next-youtube-website](https://next-youtube-website.vercel.app/) - Next | React | JavaScript | JSX | CSS
+- [Afirestriker/next-stream](https://next-stream-website.vercel.app/) - Next | React | JavaScript | JSX | CSS
+- [Afirestriker/next-product-details](https://github.com/Afirestriker/next-product-details) - Next | React | JavaScript | JSX | CSS
 - [Afirestriker/Next.js-Projects/next-todo-app](https://github.com/Afirestriker/Next.js-Projects/tree/main/next-todo-app) - Next | React | JavaScript | JSX (HTML) | CSS
 - [Afirestriker/Next.js-Projects/next-tailwind_css-daisyui-integration](https://github.com/Afirestriker/Next.js-Projects/tree/main/next-tailwind_css-daisyui-integration) - Next | React | JavaScript | JSX (HTML) | Tailwind-CSS | Daisy UI
 

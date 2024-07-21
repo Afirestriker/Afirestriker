@@ -100,8 +100,9 @@
 
 #### 🌱 My React Projects
 
-- [Afirestriker/React-Project/.../ToDO-Application](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/todo-app) - JavaScript | ReactJS | HTML | CSS
-- [Afirestriker/React-Project/.../MathCalculation](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/MathCalculation) - JavaScript | ReactJS | HTML | CSS
+- [Afirestriker/React-Project/.../Code-Splitting-And-Lazy-Loading-To-Improve-Performance]([https://github.com/Afirestriker/React-Project/tree/main/React-Apps/todo-app](https://github.com/Afirestriker/react-concepts-in-action/tree/main/react-code-splitting)) - JavaScript | React.js | JSX | Vite app
+- [Afirestriker/React-Project/.../TODO-Application](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/todo-app) - JavaScript | React.js | HTML | CSS
+- [Afirestriker/React-Project/.../MathCalculation](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/MathCalculation) - JavaScript | React.js | HTML | CSS
 
 
 #### 🌱 My npm Package Projects

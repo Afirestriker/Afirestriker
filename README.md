@@ -72,6 +72,19 @@
 - [Afirestriker/HoliVista](https://github.com/Afirestriker/Holi-Vista__HTML-CSS-JS) - Vanilla JS | HTML | CSS
 
 
+#### 🌱 My DSA
+- [Dyanmic Stack Implementation](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Stack/stack_dynamic_implementation.c) - C-Programming
+- [Dynamic Queue Implementation](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Queue/queue_dyamic_implementation.c) - C-Programming
+- [Binary Search](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Searching/Binary%20search/Binary_Search%20non-recursive.c) - C-Programming
+- [Recursive Binary Search](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Searching/Binary%20search/Binary_Search%20recursive.c) - C-Programming
+- [Circular Link List](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Link%20list/circular%20single%20linked%20list.c) - C-Programming
+- [Doubly Link List](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Link%20list/doubly%20link%20list.c) - C-Programming
+- [Singly Link List](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Link%20list/single%20link%20list%20with%20less%20code.c) - C-Programming
+- [Bubble Sort](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Sorting/Bubble_sort.c) - C-Programming
+- [Selection Sort](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Sorting/Selection_sort.c) - C-Programming
+- [Insertion Sort](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Sorting/Insertion_sort.c) - C-Programming
+
+
 #### 🌱 My JavaScript Projects
 
 - [Afirestriker/GraphQL/](https://github.com/Afirestriker/GraphQL) - JavaScript | Node.js | GraphQL | Apollo-Server
@@ -118,19 +131,6 @@
 #### 🌱 My C-Programming Projects
 - [Afirestriker/C-Programming/.../KBC Game](https://github.com/Afirestriker/C-Programming/tree/main/C%20programming%20Projects/Cp-KBC%20Project) - C-Programming
 - [Array Sotr Using Dyanmic Memory Allocation](https://github.com/Afirestriker/C-Programming/tree/main/C%20programming%20Projects/Array_sorting_programme/using%20dynamic%20memory%20allocation) - C-Programming
-
-
-#### 🌱 My DSA Programs
-- [Dyanmic Stack Implementation](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Stack/stack_dynamic_implementation.c) - C-Programming
-- [Dynamic Queue Implementation](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Queue/queue_dyamic_implementation.c) - C-Programming
-- [Binary Search](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Searching/Binary%20search/Binary_Search%20non-recursive.c) - C-Programming
-- [Recursive Binary Search](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Searching/Binary%20search/Binary_Search%20recursive.c) - C-Programming
-- [Circular Link List](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Link%20list/circular%20single%20linked%20list.c) - C-Programming
-- [Doubly Link List](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Link%20list/doubly%20link%20list.c) - C-Programming
-- [Singly Link List](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Link%20list/single%20link%20list%20with%20less%20code.c) - C-Programming
-- [Bubble Sort](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Sorting/Bubble_sort.c) - C-Programming
-- [Selection Sort](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Sorting/Selection_sort.c) - C-Programming
-- [Insertion Sort](https://github.com/Afirestriker/Data-Structure-Algorithm/blob/main/Sorting/Insertion_sort.c) - C-Programming
 
 
 #### 🌱 My Android Projects

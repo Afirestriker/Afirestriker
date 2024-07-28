@@ -113,7 +113,8 @@
 
 #### 🌱 My React Projects
 
-- [Afirestriker/React-Project/.../Code-Splitting-And-Lazy-Loading-To-Improve-Performance](https://github.com/Afirestriker/react-concepts-in-action/tree/main/react-code-splitting) - JavaScript | React.js | JSX | Vite app
+- [Afirestriker/react-vite-autosuggestion](https://github.com/Afirestriker/react-vite-autosuggestion) - JavaScript | React.js | Vite | JSX | API
+- [Afirestriker/React-Project/.../Code-Splitting-And-Lazy-Loading-To-Improve-Performance](https://github.com/Afirestriker/react-concepts-in-action/tree/main/react-code-splitting) - JavaScript | React.js | JSX | Vite
 - [Afirestriker/React-Project/.../TODO-Application](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/todo-app) - JavaScript | React.js | HTML | CSS
 - [Afirestriker/React-Project/.../MathCalculation](https://github.com/Afirestriker/React-Project/tree/main/React-Apps/MathCalculation) - JavaScript | React.js | HTML | CSS
 

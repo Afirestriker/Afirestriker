@@ -33,14 +33,14 @@
   	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white)
   - 💻 &nbsp;
   	![Java](https://img.shields.io/badge/-Java-D83B01?style=flat&logo=CoffeeScript&logoColor=white)
-  	![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
   	![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   	![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  	![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
   	![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
   - 🛢 &nbsp;
 	![MySQL](https://img.shields.io/badge/-MySQL-f29111?style=flat&logo=mysql&logoColor=black)
-	![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 	![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+	![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
   - ☁️ &nbsp;	
 	![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
   - ⚙️ &nbsp;

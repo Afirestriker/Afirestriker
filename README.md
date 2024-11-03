@@ -12,7 +12,7 @@
 #### :octocat: About Me:
 
 - 🔭 &nbsp; Exploring new technologies & developing software solutions.
-- 💼 &nbsp; Full-time Front End Developer.
+- 💼 &nbsp; Full time Front-End Developer.
 - ✍️ &nbsp; Reading, Content Creation, Soccer, and Travel as hobbies.
 
 

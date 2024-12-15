@@ -64,8 +64,9 @@
 
 #### 🌱 My Projects
 
-- [Afirestriker/next-stream](https://next-stream-website.vercel.app/) - Next | React | JavaScript | JSX | CSS
-- [Afirestriker/next-product-details](https://github.com/Afirestriker/next-product-details) - Next | React | JavaScript | JSX | CSS
+- [Afirestriker/next-promptopia](https://next-promptopia-pi.vercel.app/) - Next.js | React.js | JavaScript | JSX | Tailwind | MongoDB
+- [Afirestriker/next-stream](https://next-stream-website.vercel.app/) - Next.js | React.js | JavaScript | JSX | CSS | MongoDB
+- [Afirestriker/next-product-details](https://github.com/Afirestriker/next-product-details) - Next.js | React.js | JavaScript | JSX | CSS
 - [Afirestriker/KHub](https://github.com/Afirestriker/KHub__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
 - [Afirestriker/Intern_&_Hireup](https://github.com/Afirestriker/Intern_HireUp__Java-Project) - Java | JSP | JavaScript | jQuery | HTML | CSS
 - [Afirestriker/Chrome-Extension/Youtube-Playback-Speed](https://github.com/Afirestriker/chrome-extension) - Vanilla JS | HTML | CSS

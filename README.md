@@ -2,19 +2,16 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{Afirestriker}/count.svg)
 
-
 ## 👋 Hi, I'm Ashish ✨
-
 
 ### 🚀 Expertise In Front-End Development 🚀
 
-
 #### :octocat: About Me:
 
+- ❤️ &nbsp; JavaScript - JavaScript is so beautiful. I love JavaScript.
 - 🔭 &nbsp; Exploring new technologies & developing software solutions.
 - 💼 &nbsp; Full time Front-End Developer.
-- ✍️ &nbsp; Reading, Content Creation, Soccer, and Travel as hobbies.
-
+- ✍️ &nbsp; Reading, Creating content, Playing Soccer, and Travelling as hobbies.
 
 #### 🧑‍💻 Tech Stack
 

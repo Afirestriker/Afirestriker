@@ -4,11 +4,11 @@
 
 ## 👋 Hi, I'm Ashish ✨
 
-### 🚀 Expertise In Front-End Development 🚀
+### 🚀 Software Engineer. Expertise In Front-End Development 🚀
 
 #### :octocat: About Me:
 
-- ❤️ &nbsp; JavaScript - JavaScript is so beautiful. I love JavaScript.
+- 💛 &nbsp; JavaScript - JavaScript is so beautiful.
 - 🔭 &nbsp; Exploring new technologies & developing software solutions.
 - 💼 &nbsp; Full time Front-End Developer.
 - ✍️ &nbsp; Reading, Creating content, Playing Soccer, and Travelling as hobbies.
@@ -162,13 +162,13 @@
   &nbsp;
   [Gmail](mailto:agrawalashish.in@gmail.com/)
   &nbsp;
-  [Codeforces](https://codeforces.com/profile/Agrawal_Ashish)
-  &nbsp;
+  <!-- [Codeforces](https://codeforces.com/profile/Agrawal_Ashish)
+  &nbsp; -->
   [StackOverflow](https://meta.stackoverflow.com/users/22471209)
   &nbsp;
   [Youtube](https://www.youtube.com/c/SpecialDays/)
   &nbsp;
-  [Twitter](https://www.twitter.com/_afirestriker/)
+  <!-- [Twitter](https://www.twitter.com/_afirestriker/) -->
 
 </div>
 

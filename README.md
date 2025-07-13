@@ -1,17 +1,17 @@
-<!-- <img src="./Images/Octocat-v2.png" alt="Image" align="right" width="200" height="200"></a> -->
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iashish-agrawal/)
 
-![Visitor Count](https://profile-counter.glitch.me/{Afirestriker}/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=afirestriker&color=blue)
 
-## 👋 Hi, I'm Ashish ✨
+## 👋 Hi, I'm Ashish 🚀
 
-### 🚀 Software Engineer. Expertise In Front-End Development 🚀
+### Software Engineer. Expertise In Front-End Development
 
 #### :octocat: About Me:
 
-- 💛 &nbsp; JavaScript - JavaScript is so beautiful.
-- 🔭 &nbsp; Exploring new technologies & developing software solutions.
-- 💼 &nbsp; Full time Front-End Developer.
-- ✍️ &nbsp; Reading, Creating content, Playing Soccer, and Travelling as hobbies.
+- 🌱 &nbsp; I’m a JavaScript enthusiast and currently all into ReactJS.
+- 🔭 &nbsp; My radar is always on for innovative tech.
+- ✍️ &nbsp; Off-screen, I'm into reading, creating, sports, and travel.
+- ⚡ &nbsp; Fun fact: I think, I am in Love with Javascript.
 
 #### 🧑‍💻 Tech Stack
 

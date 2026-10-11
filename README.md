@@ -10,8 +10,8 @@
 
 - 🌱 &nbsp; I’m a JavaScript enthusiast and currently all into ReactJS.
 - 🔭 &nbsp; My radar is always on for innovative tech.
-- ✍️ &nbsp; Off-screen, I'm into reading, creating, sports, and travel.
-- ⚡ &nbsp; Fun fact: I think, I am in Love with Javascript.
+- ✍️ &nbsp; Off-screen, I'm into reading, exploring, and travelling.
+- ⚡ &nbsp; Fun fact: I think, I am in Love.
 
 #### 🧑‍💻 Tech Stack
 
